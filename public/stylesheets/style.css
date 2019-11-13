@@ -1,0 +1,17 @@
+
+html {
+  background-color: mediumpurple;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica sans-serif;
+}
+
+a {
+  color: salmon;
+}
